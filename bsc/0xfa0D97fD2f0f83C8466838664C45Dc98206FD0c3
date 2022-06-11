@@ -1,0 +1,11 @@
+{
+ "BGT": "BGT Token",
+ "website": "https://bgtdefi.com",
+ "description": "B. Game platform is a safe and fair distributed game platform, which supports various DAPP game tokens across the main chain.",
+ "explorer": "https://bscscan.com/token/0xfa0D97fD2f0f83C8466838664C45Dc98206FD0c3",
+ "type": "BEP20",
+ "symbol": "BGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xfa0D97fD2f0f83C8466838664C45Dc98206FD0c3"
+} 
